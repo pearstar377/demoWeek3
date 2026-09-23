@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: "Lavishly Yours", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: azure;
+    color: darkred;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Lavishly Yours", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: azure;
+    color: darkred;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    line-height: 200%;
+}
+
+.footnote {
+    font-weight: 500;
+}
+
+.name{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+
+a {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: green wavy underline;
+    text-transform: uppercase;
+}
+
+#orchidDisambiguation {
+    color: darkblue;
+}
